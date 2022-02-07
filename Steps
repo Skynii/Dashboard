@@ -4,3 +4,7 @@
 4- Rodar Yarn dev
 5 - Yarn add @chakra-ui/react @chakra-ui/core  @emotion/react @emotion/styled framer-motion {adiciona dependencias} 
 6- criar file  style/theme.ts 
+
+//* Configurar font
+
+//*Configurar Login
